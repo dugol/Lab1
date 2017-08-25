@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LabsCM20172</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="link_login"><a href="sites.google.com/view/jaiberyepes">forgot password?</a></string>
+    <string name="sign_up_register">Sign up</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="male">Man</string>
+    <string name="female">Woman</string>
+    <string name="birthday">Birthday</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="city">Ciudad</string>
+    <string name="send">Send</string>
+    <string-array name="cities">
+        <item>Barranquilla</item>
+        <item>Bogotá</item>
+        <item>Bucaramanga</item>
+        <item>Buenaventura</item>
+        <item>Cartagena de Índias</item>
+        <item>Cali</item>
+        <item>Cúcuta</item>
+        <item>Ibagué</item>
+        <item>Manizales</item>
+        <item>Medellín</item>
+        <item>Montería</item>
+        <item>Neiva</item>
+        <item>Pasto</item>
+        <item>Pereira</item>
+        <item>Valledupar</item>
+    </string-array>
+    <string name="ted_permission">If you reject permission, you can not use this service. Please turn on permission</string>
+    <string name="update">Update profile</string>
+    <string name="exit">Exit</string>
+    <string name="warning">The data is incorrect</string>
+    <string name="my_profile">My profile</string>
+    <string name="gender">Gender</string>
+    <string name="warning2">You can not leave information empty</string>
+    <string name="from_cam">Cam</string>
+    <string name="from_sd">SD Card</string>
+    <string name="title_image">select image</string>
+</resources>

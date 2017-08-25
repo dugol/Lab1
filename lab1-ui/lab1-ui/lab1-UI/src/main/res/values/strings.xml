@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">LabsCM20172</string>
+    <string name="login">Inicio de sesión</string>
+    <string name="email">Correo</string>
+    <string name="password">Contraseña</string>
+    <string name="log_in">Ingresar</string>
+    <string name="sign_up">Registrarse</string>
+    <string name="link_login"><a href="sites.google.com/view/jaiberyepes">¿Olvidaste tu contraseña?</a></string>
+    <string name="sign_up_register">Registro de usuario</string>
+    <string name="first_name">Nombre</string>
+    <string name="last_name">Apellido</string>
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name="birthday">Nacimiento</string>
+    <string name="phone">Teléfono</string>
+    <string name="address">Dirección</string>
+    <string name="city">Ciudad</string>
+    <string name="send">Enviar</string>
+    <string-array name="cities">
+        <item>Barranquilla</item>
+        <item>Bogotá</item>
+        <item>Bucaramanga</item>
+        <item>Buenaventura</item>
+        <item>Cartagena de Índias</item>
+        <item>Cali</item>
+        <item>Cúcuta</item>
+        <item>Ibagué</item>
+        <item>Manizales</item>
+        <item>Medellín</item>
+        <item>Montería</item>
+        <item>Neiva</item>
+        <item>Pasto</item>
+        <item>Pereira</item>
+        <item>Valledupar</item>
+    </string-array>
+    <string name="ted_permission">Si rechaza el permiso, no podrá acceder a este servicio. Por favor active el permiso</string>
+    <string name="update">Actualizar perfil</string>
+    <string name="exit">Salir</string>
+    <string name="warning">Los datos ingresados son incorrectos</string>
+    <string name="my_profile">Mi perfil</string>
+    <string name="gender">Género</string>
+    <string name="warning2">Faltan datos por llenar</string>
+    <string name="from_cam">Cámara</string>
+    <string name="from_sd">Tarjeta SD</string>
+
+
+    <string name="title_activity_apartment">ApartmentActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_image">seleccionar imagen</string>
+</resources>
